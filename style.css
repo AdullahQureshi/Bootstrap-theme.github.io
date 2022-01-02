@@ -1,0 +1,30 @@
+.hov:hover{
+    color: white;
+}
+
+.fas, .far{
+    font-size: xx-large;
+    
+}
+
+.portfolio-box-caption{
+    visibility:hidden ;
+
+}
+
+.portfolio-box:hover .portfolio-box-caption{
+    visibility: visible;
+    
+}
+
+.formm input{
+    height: 60px;
+    width: 90%;
+    border: 1px solid gray;
+}
+
+textarea{
+    height: 60px;
+    width: 90%;
+    border: 1px solid gray;
+}
